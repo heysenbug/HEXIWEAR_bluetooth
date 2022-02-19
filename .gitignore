@@ -1,0 +1,5 @@
+# Generated files
+*.dep
+*.ewt
+Debug/
+settings/
